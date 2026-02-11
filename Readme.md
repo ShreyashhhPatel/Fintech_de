@@ -265,5 +265,5 @@ This project focuses on **realistic engineering trade-offs**, not toy examples. 
 
 ---
 
-*End of document*
+**End of document**
 
